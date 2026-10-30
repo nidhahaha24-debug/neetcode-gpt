@@ -77,6 +77,13 @@ The model's training loss decreased during the 500 training epochs.
 | 450 | 0.1640 |
 | 500 | **0.1387** |
 
+
+### Training Loss Visualization
+
+The graph below shows how the training loss decreased over 500 epochs.
+
+![GPT Training Loss](assets/training_loss.png)
+
 ## Sample Generated Output
 
 The model generated text resembling its training corpus:
